@@ -11,22 +11,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -66,9 +66,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -647,9 +647,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -698,47 +698,29 @@ table.MsoTableGrid
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
 We encounter thermal papers in our daily lives. In fact, depending on your whereabouts you might already have gotten in contact with a thermal paper today. The most popular use of said paper is the printed receipt you get when purchasing groceries. Other applications are parking tickets, labels and lottery receipts.
 
-|     |
-| --- |
-|     |
-
- 
-
-In thermal printing the image is produced by the direct transfer of heat to the thermal paper. This is done via the thermal head of the printer, which consists of many small heating elements. These heating elements are controlled electronically and generate the thermal energy that triggers the ink reaction on the functional thermo-reactive coating. Fonts, barcodes or graphics are then created from a large number of individual dots.
+![](1.png)
 
 The thermal coating consists of leuco dyes, color developers, amid waxes and other rheological additives. When heat is applied to the surface, the wax melts and brings leuco dye and color developer together. Some of these developers are already on the list of substances of very high concern and have a serious effect on human health or environment.
 
-|     |
-| --- |
-|     |
-
-During the work of my thesis, I was taking a closer look at the precoat, which you can see in the picture above. This coating layer separates the base paper from the thermal reactive layer. In this layer to main kinds of pigments are used in order to achieve said effect. The first pigment is a calcined clay that improves smoothness of the precoat thus creating a better transfer from the thermal printhead to the thermal layer. The second pigment I was taking a look at is a hollow-sphere-pigment with high isolation capacity between base paper and thermal layer. Despite the different properties both pigments improve the thermal reaction.
-
-|     |     |
-| --- | --- |
-|     |     |
-
-The SEM images listed above show a comparison of the calcined clay pigment (left) and the hollow-sphere pigment (right)
+![](2.png)
 
 The factors we were using during the modelling were coating weight, pigment ratio and pressure when calendaring. The properties we wanted to improve were the barcode readability and the optical density. The optical density describes the contrast and development of the thermal reaction whereas a good barcode readability is mandatory for label applications.
 
-The software used for the modulation is called minitab18. The figure below shows how varying pigment ratios and coating weights influence the mentioned properties.
-
-The modelling showed, that the influence of the precoat on the thermal reaction is very high and that even amounts of expensive or even dangerous chemicals in the thermal coating can be reduced. A lot of thermal paper manufacturers still make use of bisphenols as color developers even though many of them are known as endocrine disruptors. There is a broad variety of development in thermal papers to come that will make a more sustainable and healthier product
+The modelling showed, that the influence of the precoat on the thermal reaction is very high and that even amounts of expensive or even dangerous chemicals in the thermal coating can be reduced. A lot of thermal paper manufacturers still make use of bisphenols as color developers even though many of them are known as endocrine disruptors. There is a broad variety of development in thermal papers to come that will make a more sustainable and healthier product.
 
 <!--EndFragment-->
